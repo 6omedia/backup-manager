@@ -1,0 +1,22 @@
+{
+  "name": "backup-manager",
+  "version": "1.0.0",
+  "description": "Backs up mongo databases",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6omedia/backup-manager.git"
+  },
+  "author": "Mike Rockett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6omedia/backup-manager/issues"
+  },
+  "homepage": "https://github.com/6omedia/backup-manager#readme",
+  "dependencies": {
+    "mongodb-backup": "^1.6.9"
+  }
+}
